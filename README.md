@@ -1,1 +1,3 @@
 # JaegerTester
+
+![info](/info.jpg)
